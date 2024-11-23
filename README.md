@@ -8,10 +8,10 @@ StockPred is a cutting-edge stock prediction tool that utilizes AI to predict st
 This initiative is part of the capstone project for the Bangkit 2024 Batch 2 program.
 
 ## Features
-- **Dataset**: The repository contains datasets for 20 selected stocks, macroeconomic indicators (such as inflation rate, BI-Rate, and USDIDR exchange rate), and a combined dataset, which can be used to train the model.
-- **Google Colab Code**: All necessary code for training the prediction model is included.
-- **Saved Model**: The results from the training process are stored here.
-- **Training Results for Each Stock**: Detailed outcomes from training on each individual stock are available.
+- **[Dataset](Dataset)**: The repository contains datasets for 20 selected stocks, macroeconomic indicators (such as inflation rate, BI-Rate, and USDIDR exchange rate), and a combined dataset, which can be used to train the model.
+- **[Google Colab Code](Google%20Colab%20Code)**: All necessary code for training the prediction model is included.
+- **[Saved Model](Saved%20Model)**: The results from the training process are stored here.
+- **[Training Results for Each Stock](Training%20Results%20for%20Each%20Stock)**: Detailed outcomes from training on each individual stock are available.
 
 ## Let's Get Started
 
@@ -29,12 +29,12 @@ To get started with the StockPred Machine Learning project, please follow these 
 # Authors
 
 - Achmad Zahir Wajdi - Machine Learning - [Azahir21](https://github.com/Azahir21)
-- Alvian Rofius Salam - Mobile Development - 
-- Candra Bagus Ainur Rochman - Mobile Development - 
-- Esi Butarbutar - Cloud Computing - 
-- Grace Loreta Sianipar - Cloud Computing - 
-- Muhammad Rakha Almasah - Machine Learning - 
-- Muhammad Sulthon Haqiqi - Machine Learning - 
+- Alvian Rofius Salam - Mobile Development - [rougaax](https://github.com/rougaax)
+- Candra Bagus Ainur Rochman - Mobile Development - [BatuMalas](https://github.com/BatuMalas)
+- Esi Butarbutar - Cloud Computing - [esiibb](https://github.com/esiibb)
+- Grace Loreta Sianipar - Cloud Computing - [gracesianipar](https://github.com/gracesianipar)
+- Muhammad Rakha Almasah - Machine Learning - [rakhaalmasah](https://github.com/rakhaalmasah)
+- Muhammad Sulthon Haqiqi - Machine Learning - [MuhammadHaqiqi208](https://github.com/MuhammadHaqiqi208)
 
 # Acknowledgments
 

@@ -1,4 +1,4 @@
-# Model of Stock Pred
+# Model of StockPred
 
 This repository contains the saved models and necessary files for a stock prediction application. The application utilizes machine learning techniques to forecast stock prices based on historical data.
 

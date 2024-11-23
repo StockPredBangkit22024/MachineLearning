@@ -1,4 +1,4 @@
-# Notebook of Stock Pred
+# Notebook of StockPred
 
 This repository includes several notebooks designed for training stock prediction models. The primary notebook for model training is [Combined Model for 20 Stocks.ipynb](Combined%20Model%20for%2020%20Stocks.ipynb).
 
