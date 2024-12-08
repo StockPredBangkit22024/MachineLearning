@@ -3,7 +3,6 @@
 This repository contains the saved models and necessary files for a stock prediction application. The application utilizes machine learning techniques to forecast stock prices based on historical data.
 
 ## Files Included
-- **model.tflite**: This is the TensorFlow Lite model file, optimized for mobile and edge devices. It allows for efficient inference on devices with limited resources.
 - **model**: This file represents the main model used for predictions. It contains the architecture and weights of the trained model.
 - **model_terbaik.keras**: This file contains the best-performing model saved in Keras format. It can be loaded directly for further training or inference.
 - **skala_X.json**: The skala_X.json file contains scaling parameters used to transform the input features (X) before they are fed into the model. This process typically involves normalization or standardization of the data, which aims to ensure that all features are on the same scale. This is important because machine learning models often perform better when the features are within a similar range.
