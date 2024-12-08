@@ -29,10 +29,6 @@ To get started with the StockPred Machine Learning project, please follow these 
 # Authors
 
 - Achmad Zahir Wajdi - Machine Learning - [Azahir21](https://github.com/Azahir21)
-- Alvian Rofius Salam - Mobile Development - [rougaax](https://github.com/rougaax)
-- Candra Bagus Ainur Rochman - Mobile Development - [BatuMalas](https://github.com/BatuMalas)
-- Esi Butarbutar - Cloud Computing - [esiibb](https://github.com/esiibb)
-- Grace Loreta Sianipar - Cloud Computing - [gracesianipar](https://github.com/gracesianipar)
 - Muhammad Rakha Almasah - Machine Learning - [rakhaalmasah](https://github.com/rakhaalmasah)
 - Muhammad Sulthon Haqiqi - Machine Learning - [MuhammadHaqiqi208](https://github.com/MuhammadHaqiqi208)
 
