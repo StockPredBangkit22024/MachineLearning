@@ -4,7 +4,7 @@ This repository contains various datasets that can be utilized for training stoc
 
 ## [20 Stock Dataset](20%20Stocks%20Dataset)
 
-This section features the [original dataset](20%20Stocks%20Dataset/Original%20Dataset), which provides daily data from January 2009 to December 2023. Additionally, there is a modified version available in the [monthly dataset](20%20Stocks%20Dataset/Monthly%20Dataset), which presents the data in a monthly format.
+This section features the [original dataset](20%20Stocks%20Dataset/Original%20Dataset), which provides daily data from November 2005 to October 2024. Additionally, there is a modified version available in the [monthly dataset](20%20Stocks%20Dataset/Monthly%20Dataset), which presents the data in a monthly format.
 
 
 ## [Combined Dataset](Combined%20Dataset/data_gabungan.csv)
