@@ -6,7 +6,6 @@ This repository contains the saved models and necessary files for a stock predic
 - **model.tflite**: This is the TensorFlow Lite model file, optimized for mobile and edge devices. It allows for efficient inference on devices with limited resources.
 - **model**: This file represents the main model used for predictions. It contains the architecture and weights of the trained model.
 - **model_terbaik.keras**: This file contains the best-performing model saved in Keras format. It can be loaded directly for further training or inference.
-- **Record hyperparameter tuning**: This file includes records of the hyperparameter tuning process, detailing the parameters tested and their corresponding performance metrics.
 - **skala_X.json**: The skala_X.json file contains scaling parameters used to transform the input features (X) before they are fed into the model. This process typically involves normalization or standardization of the data, which aims to ensure that all features are on the same scale. This is important because machine learning models often perform better when the features are within a similar range.
 - **skala_X.pkl**: A serialized version of the scaling parameters for easy loading and application during inference.
 - **skala_Y.json**: The skala_Y.json file contains scaling parameters used to transform the target variable (Y) to a scale compatible with the model. This is especially important in regression cases, where the model's predictions need to be converted back to the original scale for accurate interpretation.
